@@ -6,7 +6,7 @@
 When we think of the human brain, we know it gives us thoughts, emotions, the ability to physically move, and even the ability to type this sentence. We tend to think of computers as being advanced because they can do some things faster than the brain, but in reality, the brain tends to be much more efficient at learning and computing things in the daily life. In which ways are programming languages mimicking the behavior of the human brain? In what ways does the brain do things better than any programming language? If it does this thing better, is it possible to make a programming language that is eventually better than the human brain? Is it possible to build a program that truly exhibits the emotion of a human brain rather than simply mimicking it? Is it possible that in the future, we can use programming languages to help the brain work better (can we have some sort of bio-technology with a programming that teaches brains how to learn faster)? Can everything that the brain does (giving the signal to move a finger, thinking of a loved one, giving the signal to blink) be represented as a step in a programming language?
 
 ## LLM Conversation
-For this set of questions, I had a conversation with ChatGPT. My goal was to have a "discussion" style dialogue, in which I asked ChatGPT about these questions as if it were a philosopher (you will see this in the conversation). I did not include every question in this README, but rather the ones that struck me as interesting (although I attempted to weave some of these other questions into the conversation as well).
+For this set of questions, I had a conversation with ChatGPT. My goal was to have a "discussion" style dialogue, in which I asked ChatGPT about these questions as if it were a philosopher (you will see this in the conversation). I did not include every question in this README, but rather the ones that struck me as interesting (although I attempted to weave some of these other questions into the conversation as well). Please visit references section for linked articles.
 
 ### Pre-Prompt
 - **Me:**
@@ -70,12 +70,6 @@ For this set of questions, I had a conversation with ChatGPT. My goal was to hav
 
       - **Scholarly Source**: A study by Pessoa (2017) highlights how emotions influence cognitive processes, such as decision-making and attention, in ways that are deeply integrated and intertwined in the brain, far beyond current AI capabilities.
 
----
-
-Here's how your "Question 3" section would look based on your README format:
-
----
-
 ### Question 3
 - **Me:**
   - Is it possible that in the future, we can use programming languages to help the brain work better (can we have some sort of bio-technology with programming that teaches brains how to learn faster)?
@@ -106,40 +100,32 @@ Here's how your "Question 3" section would look based on your README format:
 
       - **Scholarly Source**: Farah (2012) discusses the ethical challenges associated with neuroenhancement technologies, highlighting concerns about cognitive liberty and the societal implications of enhancing certain individuals' cognitive abilities over others.
 
----
-
-Sure! I'll add clickable links to Google Scholar for each source in your README. Here is your revised references section with each source linked to its corresponding Google Scholar entry:
 
 ---
+### References
 
-**References**
+1. Bowers, J. S. (2017). *Parallel Distributed Processing theory in the age of deep networks*. *Trends in Cognitive Sciences, 21*(12), 950-961. [Google Scholar](https://www.cell.com/trends/cognitive-sciences/abstract/S1364-6613(17)30216-4?source=techstories.org)
 
-Bowers, J. S. (2017). [Parallel processing, object recognition, and deep learning: Where are we now?](https://scholar.google.com/scholar_lookup?title=Parallel%20processing,%20object%20recognition,%20and%20deep%20learning:%20Where%20are%20we%20now?&author=Bowers&publication_year=2017&journal=Cognitive%20Science&volume=41&issue=4&pages=896-932) *Cognitive Science*, *41*(4), 896-932.
+2. Dietrich, A., & Kanso, R. (2010). *A review of EEG, ERP, and neuroimaging studies of creativity and insight*. [Google Scholar](https://psycnet.apa.org/buy/2010-17510-005)
 
-Dietrich, A., & Kanso, R. (2010). [A review of creativity and the brain: The functional anatomy of creativity](https://scholar.google.com/scholar_lookup?title=A%20review%20of%20creativity%20and%20the%20brain:%20The%20functional%20anatomy%20of%20creativity&author=Dietrich&publication_year=2010&journal=Psychological%20Bulletin&volume=136&issue=1&pages=822-848). *Psychological Bulletin*, *136*(1), 822-848.
+3. Enriquez-Geppert, S., Huster, R. J., & Herrmann, C. S. (2019). *EEG-Neurofeedback as a Tool to Modulate Cognition and Behavior: A Review Tutorial*. [Google Scholar](https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2017.00051/full)
 
-Enriquez-Geppert, S., Huster, R. J., & Herrmann, C. S. (2019). [EEG-neurofeedback as a tool to modulate cognition and behavior: A review tutorial](https://scholar.google.com/scholar_lookup?title=EEG-neurofeedback%20as%20a%20tool%20to%20modulate%20cognition%20and%20behavior:%20A%20review%20tutorial&author=Enriquez-Geppert&publication_year=2019&journal=Frontiers%20in%20Human%20Neuroscience&volume=11&pages=51-64). *Frontiers in Human Neuroscience*, *11*, 51-64.
+4. Famm, K., Litt, B., Tracey, K. J., Boyden, E. S., & Slaoui, M. (2013). *Drug discovery: A jump-start for electroceuticals*. [Google Scholar](https://www.nature.com/articles/496159a)
 
-Famm, K., Litt, B., Tracey, K. J., Boyden, E. S., & Slaoui, M. (2013). [Drug discovery: A jump-start for electroceuticals](https://scholar.google.com/scholar_lookup?title=Drug%20discovery:%20A%20jump-start%20for%20electroceuticals&author=Famm&publication_year=2013&journal=Nature&volume=496&issue=7444&pages=159-161). *Nature*, *496*(7444), 159-161.
+5. Farah, M. J. (2012). *Neuroethics: The ethical, legal, and societal impact of neuroscience*. [Google Scholar](https://www.annualreviews.org/content/journals/10.1146/annurev.psych.093008.100438)
 
-Farah, M. J. (2012). [Neuroethics: The ethical, legal, and societal impact of neuroscience](https://scholar.google.com/scholar_lookup?title=Neuroethics:%20The%20ethical,%20legal,%20and%20societal%20impact%20of%20neuroscience&author=Farah&publication_year=2012&journal=Annual%20Review%20of%20Psychology&volume=63&pages=571-591). *Annual Review of Psychology*, *63*, 571-591.
+6. Hassabis, D., Kumaran, D., Summerfield, C., & Botvinick, M. (2017). *Neuroscience-Inspired Artificial Intelligence*. [Google Scholar](https://www.cell.com/neuron/fulltext/S0896-6273(17)30509-3?imm_mid=0f4e52&cmp=em-data-na-na-newsltr_ai_20170731)
 
-Hassabis, D., Kumaran, D., Summerfield, C., & Botvinick, M. (2017). [Neuroscience-inspired artificial intelligence](https://scholar.google.com/scholar_lookup?title=Neuroscience-inspired%20artificial%20intelligence&author=Hassabis&publication_year=2017&journal=Neuron&volume=95&issue=2&pages=245-258). *Neuron*, *95*(2), 245-258.
+7. Kadosh, R. C., Soskic, S., Iuculano, T., Kanai, R., & Walsh, V. (2010). *Modulating neuronal activity produces specific and long-lasting changes in numerical competence*. [Google Scholar](https://www.cell.com/fulltext/S0960-9822(10)01234-0)
 
-Kadosh, R. C., Soskic, S., Iuculano, T., Kanai, R., & Walsh, V. (2010). [Modulating neuronal activity produces specific and long-lasting changes in numerical competence](https://scholar.google.com/scholar_lookup?title=Modulating%20neuronal%20activity%20produces%20specific%20and%20long-lasting%20changes%20in%20numerical%20competence&author=Kadosh&publication_year=2010&journal=Current%20Biology&volume=20&issue=22&pages=2016-2020). *Current Biology*, *20*(22), 2016-2020.
+8. Kandel, E. R., Schwartz, J. H., Jessell, T. M., Siegelbaum, S. A., & Hudspeth, A. J. (2014). *Principles of neural science* (5th ed.). McGraw-Hill Education. [Google Scholar](https://d1wqtxts1xzle7.cloudfront.net/30536508/neuroscience_syllabus-libre.pdf?1391782476=&response-content-disposition=inline%3B+filename%3DPrinciples_of_neural_science.pdf&Expires=1726187652&Signature=GS-BQHtBD4ALjoDMtr5LubCVlwbF9sWr5IK8cMAWH4s4ftzSxR0emKh~tWmgSSiLCO19Zru7JXQ9zpZ0PFlsjpepnCI00YqEssL2axXK7kZJNpa-okSpsN-PWS8eZ1HzMb8Y2Q-HPMIhtfypITkpOWze1PwLuJcnZ7kYITJ~LzUJQHsQmVogFntDPSshQpuJO-csUfYx3PLp02ry9qCkuPIe~QcHKL89PkZU9uDM8LQ2U32Ke0qnsWhxfqm4vpYqV0~L1njsW5paVNJaCZbbLTrtmh4vN2w757-aWbEYKMTzcbQwyLD5UmTGp1u6xDyEYyGctqWXZqloT1sQ5a5KWg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
 
-Kandel, E. R., Schwartz, J. H., Jessell, T. M., Siegelbaum, S. A., & Hudspeth, A. J. (2014). [Principles of neural science](https://scholar.google.com/scholar_lookup?title=Principles%20of%20Neural%20Science&author=Kandel&publication_year=2014&edition=5th). McGraw-Hill Education.
+9. Lebedev, M. A., & Nicolelis, M. A. (2006). *Brain-machine interfaces: Past, present, and future*. *Trends in Neurosciences, 29*(9), 536-546. [Google Scholar](https://www.cell.com/ajhg/abstract/S0166-2236(06)00147-0)
 
-Lebedev, M. A., & Nicolelis, M. A. (2006). [Brain-machine interfaces: Past, present, and future](https://scholar.google.com/scholar_lookup?title=Brain-machine%20interfaces:%20Past,%20present,%20and%20future&author=Lebedev&publication_year=2006&journal=Trends%20in%20Neurosciences&volume=29&issue=9&pages=536-546). *Trends in Neurosciences*, *29*(9), 536-546.
+10. Maass, W. (2016). *Searching for principles of brain computation*. *Current Opinion in Behavioral Sciences, 11*, 81-92. [Google Scholar](https://www.sciencedirect.com/science/article/pii/S235215461630119X)
 
-Maass, W. (2016). [Searching for principles of brain computation](https://scholar.google.com/scholar_lookup?title=Searching%20for%20principles%20of%20brain%20computation&author=Maass&publication_year=2016&journal=Current%20Opinion%20in%20Behavioral%20Sciences&volume=11&pages=81-92). *Current Opinion in Behavioral Sciences*, *11*, 81-92.
+11. Merolla, P. A., Arthur, J. V., Alvarez-Icaza, R., Cassidy, A. S., Sawada, J. S., Akopyan, F., & Modha, D. S. (2014). *A million spiking-neuron integrated circuit with a scalable communication network and interface*. *Science, 345*(6197), 668-673. [Google Scholar](https://www.science.org/doi/abs/10.1126/science.1254642)
 
-Merolla, P. A., Arthur, J. V., Alvarez-Icaza, R., Cassidy, A. S., Sawada, J. S., Akopyan, F., & Modha, D. S. (2014). [A million spiking-neuron integrated circuit with a scalable communication network and interface](https://scholar.google.com/scholar_lookup?title=A%20million%20spiking-neuron%20integrated%20circuit%20with%20a%20scalable%20communication%20network%20and%20interface&author=Merolla&publication_year=2014&journal=Science&volume=345&issue=6197&pages=668-673). *Science*, *345*(6197), 668-673.
-
-Pessoa, L. (2017). [A network model of the emotional brain](https://scholar.google.com/scholar_lookup?title=A%20network%20model%20of%20the%20emotional%20brain&author=Pessoa&publication_year=2017&journal=Trends%20in%20Cognitive%20Sciences&volume=21&issue=5&pages=357-371). *Trends in Cognitive Sciences*, *21*(5), 357-371.
-
----
-
-Now each source has a clickable link to its corresponding Google Scholar page. Let me know if you need further adjustments!
+12. Pessoa, L. (2017). *A network model of the emotional brain*. *Trends in Cognitive Sciences, 21*(5), 357-371. [Google Scholar](https://www.cell.com/trends/cognitive-sciences/abstract/S1364-6613(17)30036-0)
 
 ---
