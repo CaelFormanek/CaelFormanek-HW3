@@ -100,6 +100,8 @@ For this set of questions, I had a conversation with ChatGPT. My goal was to hav
 
       - **Scholarly Source**: Farah (2012) discusses the ethical challenges associated with neuroenhancement technologies, highlighting concerns about cognitive liberty and the societal implications of enhancing certain individuals' cognitive abilities over others.
 
+## Summary
+This conversation with ChatGPT was quite interesting, and I definitely gleaned some very interesting insight which I thought furthered my understanding of the topic. We generally talked about the concepts of the brain acting as its own programming languages, with ChatGPT mentioning how thoughts can be organized like data structures, the use of the brain "algorithms" just as programming languages use algorithms, and then representation and abstraction which is typically seen in Object Oriented Languages. Possibly the most interesting thing I learned about in this conversation was the use of Brain-Computer Interfaces and how technology can act as an actual aid in neurodeficiencies. The reason I thought that this was interesting is because we, as humans, are organic; yet we can interface with something that boils down to binary. It would be interesting to see in the future (when ChatGPT has advanced tremendously) if ChatGPT can actually formulate new and innovative ideas. Right now, it can feed users information in a very organized way. On the topic of brains and programming languages, maybe ChatGPT will be able to make a programming language that parallels its own "thought" process.
 
 ---
 ### References
